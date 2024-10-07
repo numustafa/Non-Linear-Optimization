@@ -1,2 +1,2 @@
 # Non-Linear-Optimization
-Python Assignments for the NLO course in SS24
+Lectures & Python Assignments for the NLO course in SS24
